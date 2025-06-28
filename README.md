@@ -1,1 +1,1 @@
-# Wadaa
+This project is a fully responsive travel website named "Wadaa." It is designed to provide users with an intuitive and seamless experience for planning and booking their dream trips. The website features a modern and visually appealing interface, showcasing a variety of travel services, top destinations, and client testimonials.
